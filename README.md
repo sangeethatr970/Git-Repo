@@ -7,6 +7,4 @@ This repository is created to showcase basic git operations including commits, b
 
 
 
-## Files
-- `index.html`: The main HTML file containing a simple webpage structure.
-- `README.md`: This readme file providing an overview of the repository.
+
